@@ -3,3 +3,4 @@ agno
 youtube-transcript-api
 python-dotenv
 requests
+openai
